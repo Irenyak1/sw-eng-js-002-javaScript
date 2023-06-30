@@ -1,4 +1,7 @@
-// //create 2 string variables
+// Assignment 1
+
+
+//create 2 string variables
 let clubName = "manchester";
 let className = "player";
 
