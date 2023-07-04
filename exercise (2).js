@@ -1,3 +1,4 @@
+// This comment serves to clarify that the exercise 
 // //create 2 string variables
 // let clubName = "manchester";
 // let className = "player";
