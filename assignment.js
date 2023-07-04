@@ -1,3 +1,4 @@
+// This is my new copy of the work.
 // assignment
  //1. create five if statements
 //2. create five switch cases
@@ -86,7 +87,7 @@ switch(color){
         console.log("move")
         break;
     case "yellow":
-        console,log("slow down")
+        console.log("slow down")
         break;
     default :
         console.log("cross")
@@ -143,7 +144,7 @@ switch(bookType){
 
 // 3.
 let talents = ["singing", "dancing","praying"];
-for (r = 0; r < talents.length; r++)
+for (let r = 0; r < talents.length; r++)
 switch(talents[r]){
     case "singing":
         console.log("they can sing");
