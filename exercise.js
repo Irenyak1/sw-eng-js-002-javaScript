@@ -1,15 +1,7 @@
-# sw-eng-js-002-javaScript
-
-# Group2 Assignments
-## Agonzebwa Gerald
-## Colleb Mwesigwa
-## Brian Kasekulume
-## Calvin Ogwang
-## Conquest Ahimbisibwe
+// Assignment 1
 
 
-
-// //create 2 string variables
+//create 2 string variables
 let clubName = "manchester";
 let className = "player";
 
@@ -43,7 +35,6 @@ object3.russia = "moscow";
 console.log(object1);
 console.log(object2);
 console.log(object3);
-
 
 
 
